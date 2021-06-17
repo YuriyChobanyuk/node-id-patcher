@@ -31,7 +31,7 @@ async function main(): Promise<void> {
   );
 }
 
-// main().catch((e) => {
-//   console.error(new Error('Something went wrong'));
-//   console.error(e);
-// });
+main().catch((e) => {
+  console.error(new Error('Something went wrong'));
+  console.error(e);
+});

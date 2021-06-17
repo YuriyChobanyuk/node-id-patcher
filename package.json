@@ -1,5 +1,5 @@
 {
-  "name": "html-id-patcher",
+  "name": "ngtidp",
   "version": "0.1.0",
   "description": "Add test id's to the html dom elements",
   "main": "index.js",
